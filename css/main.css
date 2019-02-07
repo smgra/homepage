@@ -54,7 +54,7 @@
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
       width: 250px;
-      height: 250px;
+      height: 235px;
       background: url("../img/portrait.jpg");
       border-radius: 50%;
       border: solid 3px #f0810f; }
@@ -273,7 +273,7 @@ main {
     .menu-branding .portrait {
       background: url("../img/portrait_small.jpg");
       width: 150px;
-      height: 150px; }
+      height: 140px; }
   .about-info {
     grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
     grid-template-columns: 1fr; }
